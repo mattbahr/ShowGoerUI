@@ -1,1 +1,67 @@
-/* You can add global styles to this file, and also import other style files */
+
+h1 {
+	text-align: center;
+	color: #5cb85c;
+}
+
+.btn-success
+{
+   transition: 0.5s;
+}
+
+.btn-success:hover, .btn-success:focus
+{
+   background: white;
+   border-color: #5cb85c;
+   color: black;
+   transition: all 0.4s;
+}
+
+.btn-warning
+{
+   transition: 0.5s;
+}
+
+.btn-warning:hover, .btn-warning:focus
+{
+   background: white;
+   color: black;
+   border-color: #f0ad4e;
+}
+
+.modal-header
+{
+   background: #5cb85c;
+   color: white;
+   text-align: center;
+}
+
+.input-group-addon
+{
+   background-color: #5cb85c;
+   color: white;
+}
+
+.iga1
+{
+   background-color: #f0ad4e;
+   color: white;
+}
+
+.iga2
+{
+   background-color: #FF3838;
+   color: white;
+}
+
+.panel-title
+{
+	color: #5cb85c;
+}
+
+.modal-title
+{
+	font-size: 32px; 
+	padding: 12px;
+}
+
